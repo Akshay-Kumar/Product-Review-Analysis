@@ -1,3 +1,3 @@
 # Product-Review-Analysis
 ## Dependent libraries
-![alt text](library.jpg)
+![image](https://github.com/Akshay-Kumar/Product-Review-Analysis/blob/master/libraries.JPG)
